@@ -34,4 +34,6 @@ System.out.println();
 //function calling  
 printPattern(n);  
 }  
-}  
+}
+Adl 
+AWS/Devops/Linux---> will rule the IT
